@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://enzo-salson.fr](https://enzo-salson.fr)
 
-- 💬 Ask me about **react, RESTFull API's, python**
+- 💬 Ask me about **React, NodeJS, Python**
 
 - 📫 How to reach me **contact@enzo-salson.fr**
 
